@@ -102,5 +102,5 @@ steps:
 ---
 ## 🔗 Kaynaklar
 
-- [https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+- [https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
 - [https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-resource-group-deployment](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-resource-group-deployment)
