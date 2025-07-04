@@ -1,9 +1,9 @@
 # 🚀 DevOps & Cloud Öğrenme Notları
 
-![Repo Size](https://img.shields.io/github/repo-size/furkankus/devops-cloud-notlar?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/furkankus/devops-cloud-notlar?style=flat-square)
-![Issues](https://img.shields.io/github/issues/furkankus/devops-cloud-notlar?style=flat-square)
-![License](https://img.shields.io/github/license/furkankus/devops-cloud-notlar?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/furkankus/Devops_Dokuman?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/furkankus/Devops_Dokuman?style=flat-square)
+![Issues](https://img.shields.io/github/issues/furkankus/Devops_Dokuman?style=flat-square)
+![License](https://img.shields.io/github/license/furkankus/Devops_Dokuman?style=flat-square)
 
 ---
 
