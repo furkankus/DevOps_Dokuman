@@ -35,4 +35,4 @@ Başta Kubernetes, Docker, Azure DevOps, Azure Cloud ve CI/CD süreçleri olmak 
 
 1. Repo’yu klonlayın:  
    ```bash
-   git clone https://github.com/kullaniciadi/DevOps_Dokuman.git
+   git clone https://github.com/furkankus/DevOps_Dokuman.git
