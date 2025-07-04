@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original-wordmark.svg" alt="DevOps Logo" width="200" />
+  <img src="https://cdn.worldvectorlogo.com/logos/devops-toolchain.svg" alt="DevOps Logo" width="180" />
 </p>
 
 Bu repo, DevOps ve Bulut (Cloud) teknolojileri hakkında sıfırdan ileri seviyeye kadar hazırlanmış kapsamlı ve düzenli eğitim notlarını içerir.  
